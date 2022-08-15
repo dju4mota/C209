@@ -1,7 +1,7 @@
 # Resumindo:
 
 from PIL import Image
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as 
 import numpy as np
 
 img = Image.open('imagem.extensao')
